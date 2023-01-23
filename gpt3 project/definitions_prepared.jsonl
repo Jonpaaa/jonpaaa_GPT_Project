@@ -1,0 +1,258 @@
+{"prompt":"ac ->","completion":" Advisory Circular\n"}
+{"prompt":"acars ->","completion":" Aircraft Communications Addressing and Reporting System\n"}
+{"prompt":"acas ->","completion":" airborne collision accordance system and unless the context indicates otherwise\n"}
+{"prompt":"acas(ii) ->","completion":" an airborne collision avoidance system meeting ICAO specifications\n"}
+{"prompt":"adf ->","completion":" Automatic Direction Finder\n"}
+{"prompt":"adiz ->","completion":" Air Defence Identification Zone\n"}
+{"prompt":"ads-b ->","completion":" automatic dependent surveillance – broadcast\n"}
+{"prompt":"ads-c ->","completion":" automatic dependent surveillance – contract\n"}
+{"prompt":"afm ->","completion":" aircraft flight manual\n"}
+{"prompt":"agl ->","completion":" above ground level\n"}
+{"prompt":"aic ->","completion":" an Aeronautical Information Circular\n"}
+{"prompt":"aim ->","completion":" Aeronautical Information Management\n"}
+{"prompt":"aip ->","completion":" an Aeronautical Information Publication\n"}
+{"prompt":"airac ->","completion":" Aeronautical Information Regulation and Control\n"}
+{"prompt":"air sup ->","completion":" an AIP Supplement\n"}
+{"prompt":"ais ->","completion":" aeronautical information services\n"}
+{"prompt":"alim ->","completion":" altitude limit\n"}
+{"prompt":"alosp ->","completion":" acceptable levels of safety performance\n"}
+{"prompt":"amd ->","completion":" Aerodrome Mapping Data\n"}
+{"prompt":"amdb ->","completion":" Aerodrome Mapping Database\n"}
+{"prompt":"ame ->","completion":" Aircraft Maintenance Engineer\n"}
+{"prompt":"amo ->","completion":" Aircraft Maintenance Organisation\n"}
+{"prompt":"ansp ->","completion":" Air Navigation Service Provider\n"}
+{"prompt":"aoc ->","completion":" air operator certificate\n"}
+{"prompt":"apv ->","completion":" approach procedure with vertical guidance\n"}
+{"prompt":"asto ->","completion":" Aviation Security Training Organisation\n"}
+{"prompt":"atc ->","completion":" Air Traffic Control or Air Traffic Controller\n"}
+{"prompt":"atis ->","completion":" Automatic Terminal Information Service\n"}
+{"prompt":"atms ->","completion":" air traffic management system\n"}
+{"prompt":"ato ->","completion":" Aviation Training Organisation\n"}
+{"prompt":"atpl ->","completion":" Airline Transport Pilot Licence\n"}
+{"prompt":"atpl(a) ->","completion":" Airline Transport Pilot Licence for Aeroplane \n"}
+{"prompt":"atpl(h) ->","completion":" Airline Transport Pilot Licence for Helicopter\n"}
+{"prompt":"ats ->","completion":" Air Traffic Service\n"}
+{"prompt":"atsu ->","completion":" Air Traffic Service Unit\n"}
+{"prompt":"atz ->","completion":" an aerodrome traffic zone\n"}
+{"prompt":"baro ->","completion":" barometric\n"}
+{"prompt":"bift ->","completion":" Basic Instrument Flight Trainer\n"}
+{"prompt":"bitd ->","completion":" basic instrument training device\n"}
+{"prompt":"bvlos ->","completion":" beyond visual line of sight\n"}
+{"prompt":"caa ->","completion":" Civil Aviation Authority\n"}
+{"prompt":"camu ->","completion":" Central Airspace Management Unit\n"}
+{"prompt":"cao ->","completion":" Corporate Aviation Operator\n"}
+{"prompt":"caoc ->","completion":" corporate aviation operator certificate\n"}
+{"prompt":"car ->","completion":" Civil Aviation Regulations\n"}
+{"prompt":"cars ->","completion":" cockpit audio recording system\n"}
+{"prompt":"cavok ->","completion":" clouds and visibility okay\n"}
+{"prompt":"cbt ->","completion":" computer-based training including e-learning\n"}
+{"prompt":"cdfa ->","completion":" continuous descent final approach\n"}
+{"prompt":"cdi ->","completion":" Course Deviation Indicator\n"}
+{"prompt":"cdl ->","completion":" a configuration deviation list\n"}
+{"prompt":"cert ->","completion":" CO2 Estimation and Reporting Tool\n"}
+{"prompt":"cf ->","completion":" Course to a Fix\n"}
+{"prompt":"cfi ->","completion":" chief flying instructor\n"}
+{"prompt":"cgi ->","completion":" chief ground instructor\n"}
+{"prompt":"cns ->","completion":" Communication\n"}
+{"prompt":"comat ->","completion":" operator manual\n"}
+{"prompt":"co2 ->","completion":" carbon dioxide\n"}
+{"prompt":"co2e ->","completion":" carbon dioxide equivalent in context of greenhouse gases\n"}
+{"prompt":"corsia ->","completion":" Carbon Offsetting and Reduction Scheme for International Aviation\n"}
+{"prompt":"cpa ->","completion":" the closest part of approach\n"}
+{"prompt":"cpdlc ->","completion":" Controlled-pilot data link communications\n"}
+{"prompt":"cpl ->","completion":" Commercial Pilot Licence\n"}
+{"prompt":"cpl(a) ->","completion":" Commercial Pilot Licence for Aeroplane \n"}
+{"prompt":"cpl(h) ->","completion":" Commercial Pilot Licence for Helicopter\n"}
+{"prompt":"cta ->","completion":" a control area\n"}
+{"prompt":"ctr ->","completion":" a control zone\n"}
+{"prompt":"cvr ->","completion":" cockpit voice recorder\n"}
+{"prompt":"cvs ->","completion":" combined vision system\n"}
+{"prompt":"c2 ->","completion":" command and control link\n"}
+{"prompt":"da\/h ->","completion":" decision altitude\/height\n"}
+{"prompt":"dame ->","completion":" designated aviation medical examiner\n"}
+{"prompt":"dasamp ->","completion":" Drug and Substance Abuse Management Plan\n"}
+{"prompt":"d-atis ->","completion":" Data link-automatic terminal information service\n"}
+{"prompt":"dfe ->","completion":" Designated Flight Examiner\n"}
+{"prompt":"dme ->","completion":" Distance Measuring Equipment\n"}
+{"prompt":"dp ->","completion":" departure procedure\n"}
+{"prompt":"dr ->","completion":" dead reckoning\n"}
+{"prompt":"dtk ->","completion":" Desired Track\n"}
+{"prompt":"dto ->","completion":" Declared Training Organisation\n"}
+{"prompt":"edto ->","completion":" extended diversion time operation\n"}
+{"prompt":"efb ->","completion":" Electronic Flight Bag\n"}
+{"prompt":"efis ->","completion":" Electronic Flight Instrument System\n"}
+{"prompt":"egpws ->","completion":" enhanced ground proximity warning system\n"}
+{"prompt":"elt ->","completion":" emergency locator transmitter\n"}
+{"prompt":"emc ->","completion":" Electromagnetic Compatibility\n"}
+{"prompt":"emp ->","completion":" emissions monitoring plan\n"}
+{"prompt":"empr ->","completion":" environmental management programme\n"}
+{"prompt":"erops ->","completion":" extended range operations\n"}
+{"prompt":"etops ->","completion":" extended range operations with twin-engine aircraft\n"}
+{"prompt":"evs ->","completion":" enhanced vision system\n"}
+{"prompt":"e-vlos ->","completion":" extended visual line of sight\n"}
+{"prompt":"faf ->","completion":" Final Approach Fix\n"}
+{"prompt":"fato ->","completion":" final approach and take-off area\n"}
+{"prompt":"fawp ->","completion":" Final Approach Waypoint\n"}
+{"prompt":"fdr ->","completion":" flight data recorder\n"}
+{"prompt":"ffs ->","completion":" full flight simulator\n"}
+{"prompt":"fir ->","completion":" flight information region\n"}
+{"prompt":"fl ->","completion":" flight level\n"}
+{"prompt":"fms ->","completion":" Flight Management System\n"}
+{"prompt":"fnpt ->","completion":" flight and navigation procedures training device\n"}
+{"prompt":"fop ->","completion":" foreign operators permit\n"}
+{"prompt":"fpt ->","completion":" Flight Procedures Trainer\n"}
+{"prompt":"fstd ->","completion":" flight simulation training device\n"}
+{"prompt":"ftp ->","completion":" flight training device\n"}
+{"prompt":"fs ->","completion":" Flight Simulator\n"}
+{"prompt":"fte ->","completion":" Flight Technical Error\n"}
+{"prompt":"fua ->","completion":" Flexible Use of Airspace\n"}
+{"prompt":"ghg ->","completion":" greenhouse gases\n"}
+{"prompt":"gnss ->","completion":" Global Navigation Satellite System\n"}
+{"prompt":"gps ->","completion":" Global Positioning System\n"}
+{"prompt":"gs ->","completion":" Ground Speed\n"}
+{"prompt":"h ->","completion":" helicopter\n"}
+{"prompt":"hpa ->","completion":" High Performance Aircraft\n"}
+{"prompt":"hud ->","completion":" head-up display\n"}
+{"prompt":"iaf ->","completion":" Initial Approach Fix\n"}
+{"prompt":"iaf ->","completion":" international accreditation forum\n"}
+{"prompt":"iaip ->","completion":" Integrated Aeronautical Publication\n"}
+{"prompt":"iawp ->","completion":" Intermediate Approach Waypoint\n"}
+{"prompt":"icao ->","completion":" International Civil Aviation Organization\n"}
+{"prompt":"iec ->","completion":" International Electrotechnical Commission\n"}
+{"prompt":"ifr ->","completion":" instrument flight rules\n"}
+{"prompt":"ils ->","completion":" instrument landing system\n"}
+{"prompt":"imc ->","completion":" instrument meteorological conditions\n"}
+{"prompt":"ios ->","completion":" instructor operating station of an FSTD\n"}
+{"prompt":"ir ->","completion":" instrument rating\n"}
+{"prompt":"iri ->","completion":" instrument rating instructor endorsement\n"}
+{"prompt":"iso ->","completion":" International Organization for Standardization\n"}
+{"prompt":"lags ->","completion":" Liquids\n"}
+{"prompt":"led ->","completion":" light emitting diode\n"}
+{"prompt":"lms ->","completion":" learning management system\n"}
+{"prompt":"lnav ->","completion":" Lateral Navigation\n"}
+{"prompt":"loc-i ->","completion":" loss of control in flight\n"}
+{"prompt":"loe ->","completion":" line operational evaluation\n"}
+{"prompt":"loft ->","completion":" line orientated flight training\n"}
+{"prompt":"los ->","completion":" line operational simulation\n"}
+{"prompt":"losa ->","completion":" line operating safety audit\n"}
+{"prompt":"lvo ->","completion":" low visibility operations\n"}
+{"prompt":"lvto ->","completion":" low visibility take-off\n"}
+{"prompt":"mawp ->","completion":" Missed Approach Waypoint\n"}
+{"prompt":"mcai ->","completion":" mandatory continuing airworthiness information\n"}
+{"prompt":"mcm ->","completion":" maximum certificated mass\n"}
+{"prompt":"mctow ->","completion":" maximum certificated take-off weight\n"}
+{"prompt":"mda\/h ->","completion":" minimum descent altitude\/height\n"}
+{"prompt":"me ->","completion":" multi-engine\n"}
+{"prompt":"mea ->","completion":" multi-engine aeroplane\n"}
+{"prompt":"mei ->","completion":" multi-engine instructor endorsement\n"}
+{"prompt":"mel ->","completion":" a minimum equipment list\n"}
+{"prompt":"mj ->","completion":" megajoule\n"}
+{"prompt":"mmel ->","completion":" a master minimum equipment list\n"}
+{"prompt":"mnps ->","completion":" minimum navigation performance specifications\n"}
+{"prompt":"mrv ->","completion":" monitoring\n"}
+{"prompt":"mwo ->","completion":" meteorological watch office\n"}
+{"prompt":"msl ->","completion":" mean sea level\n"}
+{"prompt":"mtom ->","completion":" maximum take-off mass\n"}
+{"prompt":"namp ->","completion":" National Airspace Master Plan\n"}
+{"prompt":"nascom ->","completion":" National Airspace Committee\n"}
+{"prompt":"nasp ->","completion":" National Aviation Security Programme\n"}
+{"prompt":"ndb ->","completion":" a non-directional radio beacon\n"}
+{"prompt":"nm ->","completion":" nautical mile\n"}
+{"prompt":"nof ->","completion":" International NOTAM office\n"}
+{"prompt":"noss ->","completion":" normal operating safety survey\n"}
+{"prompt":"notam ->","completion":" a Notice to Airmen\n"}
+{"prompt":"notoc ->","completion":" notice to captain\n"}
+{"prompt":"npa ->","completion":" non-precision approach\n"}
+{"prompt":"npl ->","completion":" national pilot licence\n"}
+{"prompt":"nri ->","completion":" night rating instructor endorsement\n"}
+{"prompt":"nvis ->","completion":" night vision imaging systems\n"}
+{"prompt":"oca\/h ->","completion":" obstacle clearance altitude\/height\n"}
+{"prompt":"ocs ->","completion":" operational control system\n"}
+{"prompt":"ofe ->","completion":" official flight examiner\n"}
+{"prompt":"ofp ->","completion":" operational flight plan\n"}
+{"prompt":"opspec ->","completion":" Operational Specifications\n"}
+{"prompt":"opmet ->","completion":" operational meteorological information\n"}
+{"prompt":"otd ->","completion":" other training device\n"}
+{"prompt":"pa ->","completion":" precision approach\n"}
+{"prompt":"pans-trg ->","completion":" procedures for Air Navigation Services — Training\n"}
+{"prompt":"par ->","completion":" Precision Approach Radar\n"}
+{"prompt":"pbe ->","completion":" portable breathing equipment\n"}
+{"prompt":"pbc ->","completion":" performance-based communication\n"}
+{"prompt":"pbn ->","completion":" Performance Based Navigation\n"}
+{"prompt":"pbs ->","completion":" performance-based surveillance\n"}
+{"prompt":"pf ->","completion":" pilot flying\n"}
+{"prompt":"pib ->","completion":" a Pre-flight Information Bulletin\n"}
+{"prompt":"pic ->","completion":" pilot-in-command\n"}
+{"prompt":"picus ->","completion":" pilot-in-command-under-supervision\n"}
+{"prompt":"pnf ->","completion":" pilot not flying\n"}
+{"prompt":"ppi ->","completion":" a Plan Position Indicator\n"}
+{"prompt":"ppl ->","completion":" Private Pilot Licence\n"}
+{"prompt":"ppl(a) ->","completion":" Private Pilot Licence for Aeroplane\n"}
+{"prompt":"ppl(h) ->","completion":" Private Pilot Licence for Helicopter\n"}
+{"prompt":"qa ->","completion":" quality assurance\n"}
+{"prompt":"qms ->","completion":" quality management system\n"}
+{"prompt":"qs ->","completion":" quality system\n"}
+{"prompt":"qtg ->","completion":" qualification test guide\n"}
+{"prompt":"ra ->","completion":" resolution advisory\n"}
+{"prompt":"raim ->","completion":" Receiver Autonomous Integrity Monitoring\n"}
+{"prompt":"rcam ->","completion":" runway condition assessment matrix\n"}
+{"prompt":"rcp ->","completion":" required communications performance\n"}
+{"prompt":"rcr ->","completion":" runway condition report\n"}
+{"prompt":"rdh ->","completion":" Reference Datum Height\n"}
+{"prompt":"rla ->","completion":" an RPA letter of approval\n"}
+{"prompt":"rlos ->","completion":" radio line-of-sight\n"}
+{"prompt":"rmt ->","completion":" RPAS maintenance technician\n"}
+{"prompt":"rnav ->","completion":" area navigation\n"}
+{"prompt":"rnav(gnss) ->","completion":" GNSS facilitated Area Navigation\n"}
+{"prompt":"rnp ->","completion":" the required navigation performance\n"}
+{"prompt":"roc ->","completion":" RPAS operators certificate\n"}
+{"prompt":"rpa ->","completion":" remotely piloted aircraft\n"}
+{"prompt":"rpas ->","completion":" remotely piloted aircraft system\n"}
+{"prompt":"rpl ->","completion":" a remote pilot licence\n"}
+{"prompt":"rps ->","completion":" remote pilot station\n"}
+{"prompt":"rsp ->","completion":" required surveillance performance\n"}
+{"prompt":"r-vlos ->","completion":" restricted visual line of sight\n"}
+{"prompt":"rvr ->","completion":" runway visual range\n"}
+{"prompt":"rvsm ->","completion":" reduced vertical separation minima\n"}
+{"prompt":"rwycc ->","completion":" runway condition code\n"}
+{"prompt":"sag ->","completion":" safety action group\n"}
+{"prompt":"sea ->","completion":" single-engine aeroplane\n"}
+{"prompt":"sms ->","completion":" Safety Management System\n"}
+{"prompt":"smsm ->","completion":" Safety Management System Manual\n"}
+{"prompt":"spic ->","completion":" student pilot in command\n"}
+{"prompt":"spl ->","completion":" Student Pilot Licence\n"}
+{"prompt":"splic ->","completion":" Student Pilot Licence Integrated Course\n"}
+{"prompt":"src ->","completion":" safety review committee\n"}
+{"prompt":"ssae ->","completion":" Safety Sensitive Activity Employee\n"}
+{"prompt":"speci ->","completion":" Special METAR\n"}
+{"prompt":"spot ->","completion":" special purpose operational training\n"}
+{"prompt":"stc ->","completion":" supplemental type certificate\n"}
+{"prompt":"ssp ->","completion":" state safety programme\n"}
+{"prompt":"std ->","completion":" Synthetic Training Device\n"}
+{"prompt":"stol ->","completion":" short take-off and landing\n"}
+{"prompt":"svs ->","completion":" synthetic vision system\n"}
+{"prompt":"ta ->","completion":" traffic advisory\n"}
+{"prompt":"taa ->","completion":" terminal arrival altitude\n"}
+{"prompt":"taf ->","completion":" terminal aerodrome forecast\n"}
+{"prompt":"taws ->","completion":" terrain awareness and avoidance system\n"}
+{"prompt":"tbi ->","completion":" turbine instructor endorsement\n"}
+{"prompt":"tcas ->","completion":" traffic alert and collision avoidance system\n"}
+{"prompt":"tgm ->","completion":" technical guidance material\n"}
+{"prompt":"tls ->","completion":" target level of safety\n"}
+{"prompt":"tma ->","completion":" a terminal control area\n"}
+{"prompt":"tso ->","completion":" Technical Standard Order\n"}
+{"prompt":"tve ->","completion":" total vertical error\n"}
+{"prompt":"uprt ->","completion":" upset prevention and recovery training\n"}
+{"prompt":"vaac ->","completion":" volcanic ash advisory centre\n"}
+{"prompt":"vfr ->","completion":" visual flight rules\n"}
+{"prompt":"vhf ->","completion":" very high frequency\n"}
+{"prompt":"vlos ->","completion":" visual line-of-sight\n"}
+{"prompt":"vmc ->","completion":" visual meteorological conditions\n"}
+{"prompt":"voice-atis ->","completion":" Voice-automatic terminal information service\n"}
+{"prompt":"vor ->","completion":" VHF omni directional radio range\n"}
+{"prompt":"vpa ->","completion":" vertical path angle\n"}
+{"prompt":"wafc ->","completion":" world area forecast centre\n"}
+{"prompt":"whmp ->","completion":" wildlife hazard management programme\n"}
+{"prompt":"wip ->","completion":" work in progress\n"}
+{"prompt":"wmo ->","completion":" World Meteorological Organization\n"}
+{"prompt":"zthr ->","completion":" altitude threshold\n"}
